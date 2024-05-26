@@ -11,6 +11,17 @@
 		1AC177C92BFA631A00AC52F5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC177C82BFA631A00AC52F5 /* ContentView.swift */; };
 		1AC177CB2BFA631B00AC52F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AC177CA2BFA631B00AC52F5 /* Assets.xcassets */; };
 		1AC177CE2BFA631B00AC52F5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AC177CD2BFA631B00AC52F5 /* Preview Assets.xcassets */; };
+		1AFAB3392BFB3A15003E4120 /* orange_fruit.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1AFAB3382BFB3A15003E4120 /* orange_fruit.usdz */; };
+		1AFAB33D2BFB4201003E4120 /* dragon_fruit.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1AFAB33C2BFB4201003E4120 /* dragon_fruit.usdz */; };
+		1AFAB33F2BFC5648003E4120 /* watermelon_fruit.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1AFAB33E2BFC5648003E4120 /* watermelon_fruit.usdz */; };
+		1AFAB3412BFCD92A003E4120 /* LandingPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AFAB3402BFCD92A003E4120 /* LandingPage.swift */; };
+		1AFAB3432BFD9B8C003E4120 /* peach_fruit.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1AFAB3422BFD9B8C003E4120 /* peach_fruit.usdz */; };
+		1AFAB3452BFD9B91003E4120 /* strawberry_fruit.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1AFAB3442BFD9B91003E4120 /* strawberry_fruit.usdz */; };
+		1AFAB3472BFD9B9C003E4120 /* kiwi_fruit.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1AFAB3462BFD9B9C003E4120 /* kiwi_fruit.usdz */; };
+		1AFAB3492C005D53003E4120 /* ARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AFAB3482C005D53003E4120 /* ARViewContainer.swift */; };
+		1AFAB3542C00671A003E4120 /* loose.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1AFAB3512C00671A003E4120 /* loose.mp3 */; };
+		1AFAB3552C00671A003E4120 /* win.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1AFAB3522C00671A003E4120 /* win.mp3 */; };
+		1AFAB3562C00671A003E4120 /* hamSoundTrim.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1AFAB3532C00671A003E4120 /* hamSoundTrim.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,17 @@
 		1AC177C82BFA631A00AC52F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1AC177CA2BFA631B00AC52F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1AC177CD2BFA631B00AC52F5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1AFAB3382BFB3A15003E4120 /* orange_fruit.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = orange_fruit.usdz; path = ../../../Downloads/orange_fruit.usdz; sourceTree = "<group>"; };
+		1AFAB33C2BFB4201003E4120 /* dragon_fruit.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = dragon_fruit.usdz; path = ../../../Downloads/dragon_fruit.usdz; sourceTree = "<group>"; };
+		1AFAB33E2BFC5648003E4120 /* watermelon_fruit.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = watermelon_fruit.usdz; path = ../../../Downloads/watermelon_fruit.usdz; sourceTree = "<group>"; };
+		1AFAB3402BFCD92A003E4120 /* LandingPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingPage.swift; sourceTree = "<group>"; };
+		1AFAB3422BFD9B8C003E4120 /* peach_fruit.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = peach_fruit.usdz; path = ../../../Downloads/peach_fruit.usdz; sourceTree = "<group>"; };
+		1AFAB3442BFD9B91003E4120 /* strawberry_fruit.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = strawberry_fruit.usdz; path = ../../../Downloads/strawberry_fruit.usdz; sourceTree = "<group>"; };
+		1AFAB3462BFD9B9C003E4120 /* kiwi_fruit.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = kiwi_fruit.usdz; path = ../../../Downloads/kiwi_fruit.usdz; sourceTree = "<group>"; };
+		1AFAB3482C005D53003E4120 /* ARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainer.swift; sourceTree = "<group>"; };
+		1AFAB3512C00671A003E4120 /* loose.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = loose.mp3; sourceTree = "<group>"; };
+		1AFAB3522C00671A003E4120 /* win.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = win.mp3; sourceTree = "<group>"; };
+		1AFAB3532C00671A003E4120 /* hamSoundTrim.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hamSoundTrim.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +73,22 @@
 		1AC177C52BFA631A00AC52F5 /* ARGame */ = {
 			isa = PBXGroup;
 			children = (
+				1AFAB3522C00671A003E4120 /* win.mp3 */,
+				1AFAB3512C00671A003E4120 /* loose.mp3 */,
+				1AFAB3532C00671A003E4120 /* hamSoundTrim.wav */,
+				1AFAB34A2C006530003E4120 /* Sound */,
+				1AFAB3462BFD9B9C003E4120 /* kiwi_fruit.usdz */,
+				1AFAB3442BFD9B91003E4120 /* strawberry_fruit.usdz */,
+				1AFAB3422BFD9B8C003E4120 /* peach_fruit.usdz */,
+				1AFAB33E2BFC5648003E4120 /* watermelon_fruit.usdz */,
+				1AFAB33C2BFB4201003E4120 /* dragon_fruit.usdz */,
+				1AFAB3382BFB3A15003E4120 /* orange_fruit.usdz */,
 				1AC177C62BFA631A00AC52F5 /* AppDelegate.swift */,
 				1AC177C82BFA631A00AC52F5 /* ContentView.swift */,
+				1AFAB3402BFCD92A003E4120 /* LandingPage.swift */,
 				1AC177CA2BFA631B00AC52F5 /* Assets.xcassets */,
 				1AC177CC2BFA631B00AC52F5 /* Preview Content */,
+				1AFAB3482C005D53003E4120 /* ARViewContainer.swift */,
 			);
 			path = ARGame;
 			sourceTree = "<group>";
@@ -65,6 +99,13 @@
 				1AC177CD2BFA631B00AC52F5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1AFAB34A2C006530003E4120 /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sound;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +166,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AFAB3472BFD9B9C003E4120 /* kiwi_fruit.usdz in Resources */,
+				1AFAB3562C00671A003E4120 /* hamSoundTrim.wav in Resources */,
+				1AFAB3432BFD9B8C003E4120 /* peach_fruit.usdz in Resources */,
+				1AFAB33F2BFC5648003E4120 /* watermelon_fruit.usdz in Resources */,
 				1AC177CE2BFA631B00AC52F5 /* Preview Assets.xcassets in Resources */,
+				1AFAB3542C00671A003E4120 /* loose.mp3 in Resources */,
+				1AFAB3552C00671A003E4120 /* win.mp3 in Resources */,
+				1AFAB3392BFB3A15003E4120 /* orange_fruit.usdz in Resources */,
+				1AFAB3452BFD9B91003E4120 /* strawberry_fruit.usdz in Resources */,
 				1AC177CB2BFA631B00AC52F5 /* Assets.xcassets in Resources */,
+				1AFAB33D2BFB4201003E4120 /* dragon_fruit.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +188,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				1AC177C92BFA631A00AC52F5 /* ContentView.swift in Sources */,
+				1AFAB3492C005D53003E4120 /* ARViewContainer.swift in Sources */,
 				1AC177C72BFA631A00AC52F5 /* AppDelegate.swift in Sources */,
+				1AFAB3412BFCD92A003E4120 /* LandingPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
